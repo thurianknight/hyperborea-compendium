@@ -1,6 +1,12 @@
 {
     "packs": [
         {
+        "name": "class-abilities",
+        "label": "Class Abilities",
+        "path": "/packs/class-abilities.db",
+        "entity": "Item"
+        },
+        {
         "name": "equipment",
         "label": "Equipment",
         "path": "/packs/equipment.db",
