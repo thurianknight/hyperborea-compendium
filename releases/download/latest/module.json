@@ -1,0 +1,296 @@
+{
+    "id": "hyperborea-compendium",
+    "name": "hyperborea-compendium",
+    "title": "Hyperborea Compendium",
+    "description": "A collection of rules compendia for the Hyperborea game system.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Dave Sherman",
+            "discord": "ThurianKnight#0166",
+            "url": "https://github.com/thurianknight/hyperborea-compendium"
+        }
+    ],
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "adventuring-gear",
+            "label": "Adventuring Gear",
+            "path": "./packs/adventuring-gear.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "armour-and-shields",
+            "label": "Armour and Shields",
+            "path": "./packs/armour-and-shields.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-any",
+            "label": "Class Abilities - Any",
+            "path": "./packs/class-abilitiesany.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-cleric",
+            "label": "Class Abilities - Cleric",
+            "path": "./packs/class-abilitiescleric.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-druid",
+            "label": "Class Abilities - Druid",
+            "path": "./packs/class-abilitiesdruid.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-monk",
+            "label": "Class Abilities - Monk",
+            "path": "./packs/class-abilitiesmonk.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-priest",
+            "label": "Class Abilities - Priest",
+            "path": "./packs/class-abilitiespriest.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-runegraver",
+            "label": "Class Abilities - Runegraver",
+            "path": "./packs/class-abilitiesrunegraver.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-shaman",
+            "label": "Class Abilities - Shaman",
+            "path": "./packs/class-abilitiesshaman.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-fighter",
+            "label": "Class Abilities - Fighter",
+            "path": "./packs/class-abilitiesfighter.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-barbarian",
+            "label": "Class Abilities - Barbarian",
+            "path": "./packs/class-abilitiesbarbarian.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-berserker",
+            "label": "Class Abilities - Berserker",
+            "path": "./packs/class-abilitiesberserker.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-cataphract",
+            "label": "Class Abilities - Cataphract",
+            "path": "./packs/class-abilitiescataphract.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-huntsman",
+            "label": "Class Abilities - Huntsman",
+            "path": "./packs/class-abilitieshuntsman.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-paladin",
+            "label": "Class Abilities - Paladin",
+            "path": "./packs/class-abilitiespaladin.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-ranger",
+            "label": "Class Abilities - Ranger",
+            "path": "./packs/class-abilitiesranger.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-warlock",
+            "label": "Class Abilities - Warlock",
+            "path": "./packs/class-abilitieswarlock.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-magician",
+            "label": "Class Abilities - Magician",
+            "path": "./packs/class-abilitiesmagician.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-cryomancer",
+            "label": "Class Abilities - Cryomancer",
+            "path": "./packs/class-abilitiescryomancer.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-illusionist",
+            "label": "Class Abilities - Illusionist",
+            "path": "./packs/class-abilitiesillusionist.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-necromancer",
+            "label": "Class Abilities - Necromancer",
+            "path": "./packs/class-abilitiesnecromancer.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-pyromancer",
+            "label": "Class Abilities - Pyromancer",
+            "path": "./packs/class-abilitiespyromancer.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-witch",
+            "label": "Class Abilities - Witch",
+            "path": "./packs/class-abilitieswitch.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-thief",
+            "label": "Class Abilities - Thief",
+            "path": "./packs/class-abilitiesthief.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-assassin",
+            "label": "Class Abilities - Assassin",
+            "path": "./packs/class-abilitiesassassin.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-bard",
+            "label": "Class Abilities - Bard",
+            "path": "./packs/class-abilitiesbard.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-legerdemainist",
+            "label": "Class Abilities - Legerdemainist",
+            "path": "./packs/class-abilitieslegerdemainist.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-purloiner",
+            "label": "Class Abilities - Purloiner",
+            "path": "./packs/class-abilitiespurloiner.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "class-abilities-scout",
+            "label": "Class Abilities - Scout",
+            "path": "./packs/class-abilitiesscout.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "spells-level-1",
+            "label": "Spells, Level 1",
+            "path": "./packs/spells-level-1.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "treasure-classes",
+            "label": "Treasure Classes",
+            "path": "./packs/treasure-classes.db",
+            "entity": "RollTable",
+            "type": "RollTable",
+            "system": "hyperborea"
+        },
+        {
+            "name": "weapons-ammunition",
+            "label": "Weapons, Ammunition",
+            "path": "./packs/weapons-ammunition.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "weapons-melee",
+            "label": "Weapons, Melee",
+            "path": "./packs/weapons-melee.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        },
+        {
+            "name": "weapons-missile",
+            "label": "Weapons, Missile",
+            "path": "./packs/weapons-missile.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "hyperborea"
+        }
+    ],
+    "manifest": "https://github.com/thurianknight/hyperborea-compendium/releases/download/latest/module.json",
+    "download": "https://github.com/thurianknight/hyperborea-compendium/releases/download/1.0.0/hyperborea-compendium.zip"
+  }
