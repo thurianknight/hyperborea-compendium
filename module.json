@@ -3,7 +3,7 @@
     "name": "hyperborea-compendium",
     "title": "Hyperborea Compendium",
     "description": "A collection of rules compendia for the Hyperborea game system.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Dave Sherman",
@@ -307,6 +307,6 @@
             "system": "hyperborea"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/thurianknight/hyperborea-compendium/v1.0.0/module.json",
+    "manifest": "https://raw.githubusercontent.com/thurianknight/hyperborea-compendium/v1.0.1/module.json",
     "download": "https://github.com/thurianknight/hyperborea-compendium/releases/latest/download/hyperborea-compendium.zip"
   }
