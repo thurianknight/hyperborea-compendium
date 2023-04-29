@@ -3,7 +3,7 @@
     "name": "hyperborea-compendium",
     "title": "Hyperborea Compendium",
     "description": "A collection of rules compendia for the Hyperborea game system.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Dave Sherman",
@@ -251,14 +251,30 @@
             "system": "hyperborea"
         },
         {
-            "name": "spells-level-1",
-            "label": "Spells, Level 1",
-            "path": "./packs/spells-level-1.db",
+            "name": "class-descriptions",
+            "label": "Class Descriptions",
+            "path": "./packs/class-descriptions.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry",
+            "system": "hyperborea"
+        },
+        {
+            "name": "spells-alphabetical",
+            "label": "Spells, Alphabetical",
+            "path": "./packs/spells-alphabetical.db",
             "entity": "Item",
             "type": "Item",
             "system": "hyperborea"
         },
         {
+            "name": "spells-by-school",
+            "label": "Spells by School",
+            "path": "packs/spells-by-school.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry",
+            "system": "hyperborea"
+          },
+              {
             "name": "treasure-classes",
             "label": "Treasure Classes",
             "path": "./packs/treasure-classes.db",
@@ -291,6 +307,6 @@
             "system": "hyperborea"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/thurianknight/hyperborea-compendium/v1.0.0/module.json",
+    "manifest": "https://raw.githubusercontent.com/thurianknight/hyperborea-compendium/v1.0.1/module.json",
     "download": "https://github.com/thurianknight/hyperborea-compendium/releases/latest/download/hyperborea-compendium.zip"
   }
