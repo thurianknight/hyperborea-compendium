@@ -3,7 +3,7 @@
     "name": "hyperborea-compendium",
     "title": "Hyperborea Compendium",
     "description": "A collection of rules compendia for the Hyperborea game system.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "Dave Sherman",
@@ -256,6 +256,14 @@
             "path": "./packs/class-descriptions.db",
             "entity": "JournalEntry",
             "type": "JournalEntry",
+            "system": "hyperborea"
+        },
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "path": "./packs/monsters.db",
+            "entity": "Actor",
+            "type": "Actor",
             "system": "hyperborea"
         },
         {
