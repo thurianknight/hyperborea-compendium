@@ -3,7 +3,7 @@
     "name": "hyperborea-compendium",
     "title": "Hyperborea Compendium",
     "description": "A collection of rules compendia for the Hyperborea game system.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "authors": [
         {
             "name": "Dave Sherman",
@@ -262,6 +262,14 @@
             "name": "monsters",
             "label": "Monsters",
             "path": "./packs/monsters.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "hyperborea"
+        },
+        {
+            "name": "davos-monsters",
+            "label": "Davo's Monsters",
+            "path": "./packs/actor-2-bestiary-1.db",
             "entity": "Actor",
             "type": "Actor",
             "system": "hyperborea"
